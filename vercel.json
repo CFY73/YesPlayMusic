@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:match*",
-      "destination": "https://163music-api-two.vercel.app/"
+      "destination": "163music-api-cfy73.vercel.app"
     }
   ]
 }
